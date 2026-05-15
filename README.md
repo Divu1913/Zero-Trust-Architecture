@@ -42,5 +42,3 @@ Divya Gunvant Khodankar
 
 ## Internship Domain
 Cyber Security
-
-Updated README documentation
